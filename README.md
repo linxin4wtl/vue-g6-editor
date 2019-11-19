@@ -11,3 +11,4 @@ g6-editor不开源，不得商用。嗝屁，只能自己尝试着用g6实现一
 
 
 
+# 运行方法：输入cnpm install，在输入cnpm run dev
